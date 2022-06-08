@@ -1,0 +1,62 @@
+﻿  Main.cpp
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(35,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(36,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(38,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(38,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(58,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(58,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(173,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(174,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(175,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(179,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(179,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(180,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(259,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(260,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(261,31): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(262,31): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(263,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(264,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(368,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saral\source\repos\NetworkRaceGame\Main.cpp(211,29): warning C4390: ';': empty controlled statement found; is this the intent?
+  NetworkRaceGame.vcxproj -> C:\Users\Saral\source\repos\NetworkRaceGame\Debug\NetworkRaceGame.exe

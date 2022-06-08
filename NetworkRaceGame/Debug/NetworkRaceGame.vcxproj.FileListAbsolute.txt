@@ -1,0 +1,2 @@
+C:\Users\Saral\source\repos\NetworkRaceGame\Debug\NetworkRaceGame.exe
+C:\Users\Saral\source\repos\NetworkRaceGame\Debug\NetworkRaceGame.pdb
